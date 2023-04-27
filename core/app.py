@@ -1,4 +1,4 @@
-from class_obj import Student
+from Student import Student
 
 student1 = Student("Mrunal","AIML",9.5,True)
 
